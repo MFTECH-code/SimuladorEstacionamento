@@ -15,3 +15,6 @@ Este projeto faz parte da entrega da matéria de Disruptive Architectures IOT e 
 
 ## Link do projeto no Tinkercad
 https://www.tinkercad.com/things/0I4pv8v1gNU
+
+## Link do vídeo de demonstração do projeto no Vimeo
+https://vimeo.com/768811551
